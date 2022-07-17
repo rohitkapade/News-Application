@@ -1,0 +1,43 @@
+#navbar{
+    height: 70px;
+    width: 95%;
+    /* border: 1px solid black; */
+    display: flex ;
+    justify-content: space-evenly;
+    background-color: aqua;
+    align-items: center;
+}
+
+#sidebar{
+    height: 100%;
+    width: 28%;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+#newsDetail{
+    height: 100%;
+    width: 67%;
+    border: 1px solid black;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+#container{
+    width: 95%;
+    height: auto;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img{
+    height: 400px;
+    width: 500px;
+}

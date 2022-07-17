@@ -1,0 +1,9 @@
+#navbar{
+    height: 70px;
+    width: 95%;
+    /* border: 1px solid black; */
+    display: flex ;
+    justify-content: space-evenly;
+    background-color: aqua;
+}
+
